@@ -1,6 +1,6 @@
 # Olá! Eu sou o Miguel 
 
-Sou **estudante de Ciência da Computação** no 4º período, apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou me aprofundando na área de **desenvolvimento web** com **Java** e **Python**, e aprimorando minhas skills em **HTML, CSS e JavaScript**.  
+Sou **estudante de Ciência da Computação** no 5º período, apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou me aprofundando na área de **desenvolvimento web** com **Java** e **Python**, e aprimorando minhas skills em **HTML, CSS e JavaScript**.  
 
 Tenho também bons conhecimentos em **C, Estruturas de Dados, Linguagens de Programação, Git e GitHub**.
 
